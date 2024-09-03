@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.2",
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
+}
